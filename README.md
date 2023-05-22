@@ -1,21 +1,18 @@
 <h1 align="center">Hey, there! <img src="https://i.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.webp" width="28px" alt="gengar"></h1>
 
 <p align="center">
-    <b>Welcome to my GitHub!</b><br><br>
+    <b>Welcome to my page!</b><br><br>
     <i>
         My name is Gabriel.<br>
-        Currently trying to complete The Odin Project / JAVA MOOC / Bachelors in Computer Science<br>
+        I'm currently trying to complete The Odin Project / a JAVA MOOC / and my Bachelors in Computer Science<br>
         I'm still learning but I'm hopeful I can start building great things!<br>
-    </i>
-    <br>
+    </i><br>
     <a href="https://www.linkedin.com/in/gabriel-corral-cardenas-0504a1184/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-
-    <a href="https://leetcode.com/VideoGabe/">
-        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
+    <a href="https://leetcode.com/VideoGabe">
+        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
-  
 </p>
 
 ### Languages Ordered by Knowledge
