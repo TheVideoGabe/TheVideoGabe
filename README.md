@@ -4,7 +4,6 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         My name is Gabriel.<br>
-        I'm currently trying to complete The Odin Project / a JAVA MOOC / and my Bachelors in Computer Science<br>
         I'm still learning but I'm hopeful I can start building great things!<br>
     </i><br>
     <a href="https://www.linkedin.com/in/gabriel-corral-cardenas-0504a1184/">
